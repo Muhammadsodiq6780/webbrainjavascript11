@@ -19,7 +19,6 @@
 // } else console.log("bunday malumot mavjud emas");
 
 // b > 3 ? console.log(true) : console.log(false);
-
 // #3
 
 // let login = "";
@@ -76,7 +75,7 @@
 
 // if (b>a && b>c){
 //   console.log(b);
-// } else if (a>b && a>c){
+// } else if (a>b && a>c)
 //   console.log(a);
 // } else if (c>a && c>b){
 //   console.log(c);
@@ -84,10 +83,10 @@
 
 // let name="ECMASCRIPT"
 
-// if (name==="ECMASCRIPT")console.log("Correct");
-// else console.log("You are wrong bro");
-
-// let num= "lk"
+// if (name==="ECMASCRIPT")console.loo");
+// g("Correct");3
+// else console.log("You are wrong br
+// let num= "lk5WR
 
 // if (num>=1)console.log("Musbat son kiritdingiz");
 // else if (num===0) console.log("0 Kiritdingiz");
@@ -101,4 +100,64 @@
 // else if (x+y>4) console.log("over");
 // else console.log("error");
 
-   
+// let temp = 10;
+// if (10 > 9) {
+//   console.log("Bugun ob-havo issiq");
+// } else {
+//   console.log("malumot yoq ");
+// }
+
+// let a = 5;
+// let b = 7;
+// console.log(a % b );
+
+// —  Function decloration
+// —  Function Expression
+// —  Arrow Function
+// —  Shadowed variable
+// —  Default parameter
+// —  Functions with return
+// console.log(title);
+// function res(n) {
+//   return "umar";
+// }
+
+// console.log(res());
+
+// const funExpres = function () {
+//     console.log('asdgadsg');
+// };
+// funExpres()
+// const funArr = () => 'umar';
+// console.log(funArr());
+
+// #1
+// function pow(a, b){
+//   console.log(a ** b);
+// }
+// pow(5, 2);
+
+// #2
+
+// const ask = (question, yes, no) => {
+//   if (confirm(question)) yes();
+//   else no;
+// };
+
+// ask(
+//   "Do you agree?",
+//   function () {
+//     alert("You agree.");
+//   },
+//   function () {
+//     alert("You canceled the execution.");
+//   }
+// );
+
+// #3
+
+// const num = (a, b) =>{
+//     console.log(Math.min(a,b));
+// }
+
+// num(3,5)

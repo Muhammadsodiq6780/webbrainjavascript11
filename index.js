@@ -1,10 +1,10 @@
-let str = 'Muhammadsodiq'
-let num = 123456
+// let str = 'Muhammadsodiq'
+// let num = 123456
 
 // console.log(num.toString());
 // console.log(num);
 
-console.log(str.slice(-5));
+// console.log(str.slice(-5));
 
 // String length
 // String slice() => slice nechinchi index dan boshlab nechanchi index gacha kesib beradi.
@@ -23,3 +23,4 @@ console.log(str.slice(-5));
 // String charAt()
 // String charCodeAt()
 // String split()
+
